@@ -2,22 +2,7 @@
 
 Web application to analyze token security on Base blockchain.
 
-## 🚀 Quick Start
-
-### 1. Start Development Server
-
-```bash
-cd ~/Desktop/baseguard
-npm run dev
-```
-
-### 2. Open in Browser
-
-```
-http://localhost:3000
-```
-
-## ✨ Features (MVP)
+## ✨ Features 
 
 - ✅ Clean, professional UI (Base blue theme)
 - ✅ Token address input
@@ -65,16 +50,7 @@ http://localhost:3000
 - **Animation**: Framer Motion
 - **Icons**: Lucide React
 - **Blockchain**: wagmi, viem (ready to integrate)
-- **Wallet**: Injected (MetaMask, Coinbase Wallet, etc.)
-
-## 💰 Cost
-
-- **Hosting**: $0 (Vercel Hobby)
-- **Domain**: ~$15/year (optional)
-- **RPC**: $0 (Base public endpoints)
-- **APIs**: $0 (Basescan, DexScreener free tiers)
-
-**Total**: Only domain cost!
+  
 
 ## 📂 Project Structure
 
@@ -97,26 +73,6 @@ baseguard/
 └── README.md
 ```
 
-## 🎨 UI Preview
-
-**Home Page**:
-- Hero section + search box
-- Wallet connect indicator
-- "How It Works" section
-
-**Scan Results**:
-- Risk score (0-100)
-- Traffic light system (🟢🟡🔴)
-- 4 categories: Honeypot, Liquidity, Ownership, Holders
-- Accordion details
-
-## 🤝 Contributing
-
-1. Fork
-2. Create feature branch
-3. Commit changes
-4. Push
-5. Open Pull Request
 
 ## 📄 License
 
